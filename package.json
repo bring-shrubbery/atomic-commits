@@ -1,0 +1,24 @@
+{
+  "name": "atomic-commits",
+  "version": "1.0.0",
+  "description": "Claude Code skill that enforces atomic commit workflow — breaks implementation into small, self-contained units and commits after each one",
+  "keywords": [
+    "claude-code",
+    "skill",
+    "plugin",
+    "atomic-commits",
+    "git",
+    "workflow"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntoniWski/atomic-commits"
+  },
+  "files": [
+    ".claude-plugin",
+    "skills",
+    "README.md",
+    "LICENSE"
+  ]
+}

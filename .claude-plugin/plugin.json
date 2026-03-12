@@ -1,0 +1,10 @@
+{
+  "name": "atomic-commits",
+  "version": "1.0.0",
+  "description": "Instructs Claude to break work into atomic units and commit after each one",
+  "author": {
+    "name": "Antoni"
+  },
+  "license": "MIT",
+  "skills": "./skills/"
+}
