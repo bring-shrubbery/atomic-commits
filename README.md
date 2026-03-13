@@ -12,7 +12,7 @@ A Claude Code skill that enforces an atomic commit workflow. When active, Claude
 ## Install
 
 ```
-/install-skill AntoniWski/atomic-commits
+/install-skill bring-shrubbery/atomic-commits
 ```
 
 ## Usage

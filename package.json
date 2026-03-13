@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AntoniWski/atomic-commits"
+    "url": "https://github.com/bring-shrubbery/atomic-commits"
   },
   "files": [
     ".claude-plugin",
