@@ -18,6 +18,7 @@
   "files": [
     ".claude-plugin",
     "skills",
+    "commands",
     "README.md",
     "LICENSE"
   ]
